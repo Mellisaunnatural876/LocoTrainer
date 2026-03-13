@@ -9,6 +9,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/locotrainer/)
 [![MODEL](https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/LocoreMind/LocoTrainer-4B)
 [![GGUF](https://img.shields.io/badge/GGUF-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/LocoreMind/LocoTrainer-4B-GGUF)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/LocoreMind/LocoTrainer/blob/main/LocoTrainer_4B.ipynb)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LocoreMind/LocoTrainer)
 
 </div>
