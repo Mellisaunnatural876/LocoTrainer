@@ -15,6 +15,14 @@
 
 > **LocoTrainer-4B** is a 4B-parameter MS-SWIFT domain expert agent distilled from Qwen3-Coder-Next. Designed to analyze MS-SWIFT codebases and generate comprehensive markdown reports — combining tool-calling capabilities with deep framework knowledge.
 
+## 🎬 Demo
+
+<div align="center">
+  <img src="assets/demo.gif" width="90%" alt="LocoTrainer Demo" />
+</div>
+
+*LocoTrainer analyzing MS-SWIFT codebase with LocoTrainer-4B model via vLLM*
+
 ## 📋 Table of Contents
 
 - 📰 [News & Updates](#-news--updates)
